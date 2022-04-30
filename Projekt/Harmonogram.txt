@@ -1,0 +1,18 @@
+Aplikacja do tworzenia repertuaru kinowego
+
+1.	Logowanie
+2.	Sesje
+3.	Panel administratora
+4.	Dodawanie kont (z panelu administratora)
+5.	Dodawanie poszczególnych uprawnień dla kont
+6.	Wprowadzanie filmów do bazy danych
+7.	Definiowanie sal kinowych 
+8.	Wprowadzanie dat seansu
+9.	Usuwanie rekordów z bazy
+10.	Edycja Rekordów w bazie 
+11.	Generowanie  Repertuaru w formie tekstowej
+12.	Generowanie Repertuaru w formie graficznej(?)
+13.	Strona z podglądem dostępna bez zakładania konta
+14.	Przypisywanie sal kinowych do konkretnych seansów
+15.	System zapobiegający wyświetlaniu 2 filmów w tej samej Sali
+16.	Główny pulpit
